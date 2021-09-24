@@ -4,4 +4,4 @@
 
 ## MY WORK  
 #### [StarGAN with CelebA Dataset](https://github.com/kimjy99/stargan-celeba)
-<img src='https://github.com/kimjy99/stargan-celeba/blob/main/images/test3.gif' align='center' width='200px'/>
+<img src='https://github.com/kimjy99/stargan-celeba/blob/main/images/test3.gif' align='center' width='800px'/>
