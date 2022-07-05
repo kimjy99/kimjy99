@@ -9,7 +9,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=99edward)](https://solved.ac/99edward)
 
-## Now Working & Studying
+## NOW STUDYING
 - UNet3+: Training with Kaggle GPU  
 - DDPM
 - Yolo
