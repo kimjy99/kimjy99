@@ -25,12 +25,16 @@
   </th>
   <tr>
     <td>
-      <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/elon-combined.gif' width='400'><p>
-      <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/result_small.png' width='400'><p>
+      <p align='center'>
+        <img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/karina6-combined.gif' width='400'>
+        <img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/iu-combined_mh.gif' width='400'>
+      <p>
     </td>
     <td>
-      <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/elon-combined.gif' width='400'><p>
-      <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/result_small.png' width='400'><p>
+      <p align='center'>
+        <img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/elon-combined.gif' width='400'>
+        <img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/iu-combined.gif' width='400'>
+      <p>
     </td>
   </tr>
   <th>
