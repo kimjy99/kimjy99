@@ -19,33 +19,33 @@
 
 <table>
   <th>
-    <p align='center'><a href='https://github.com/kimjy99/unetplusplus-celeba'>UNet++</a></p>
+    <p align='center'><a href='https://github.com/kimjy99/unetplusplus-celeba'>U2-Net</a></p>
   </th>
   <th>
-    <p align='center'><a href='https://github.com/kimjy99/u2net-pytorch'>U2-Net</a></p>
+    <p align='center'><a href='https://github.com/kimjy99/u2net-pytorch'>UNet++</a></p>
   </th>
-	<tr>
-	    <td>
-        <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/elon-combined.gif' width='400'><p>
-        <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/result_small.png' width='400'><p>
-      </td>
-	    <td>
-        <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/elon-combined.gif' width='400'><p>
-        <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/result_small.png' width='400'><p>
-      </td>
-	</tr>
+  <tr>
+    <td>
+      <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/elon-combined.gif' width='400'><p>
+      <p align='center'><img src='https://github.com/kimjy99/u2net-pytorch/blob/main/images/result_small.png' width='400'><p>
+    </td>
+    <td>
+      <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/elon-combined.gif' width='400'><p>
+      <p align='center'><img src='https://github.com/kimjy99/unetplusplus-celeba/blob/main/images/result_small.png' width='400'><p>
+    </td>
+  </tr>
   <th>
     <p align='center'><a href='https://github.com/kimjy99/stargan-celeba'>StarGAN</a></p>
   </th>
   <th>
     <p align='center'><a href='https://github.com/kimjy99/cyclegan'>CycleGAN</a></p>
   </th>
-	<tr>
-      <td>
-        <p align='center'><img src='https://github.com/kimjy99/stargan-celeba/blob/main/images/test3.gif' width='400'><p>
-      </td>
-	    <td>
-        <p align='center'><img src='https://github.com/kimjy99/cyclegan/blob/main/images/test_img_small.png' width='400'><p>
-      </td>
-	</tr>
+  <tr>
+    <td>
+      <p align='center'><img src='https://github.com/kimjy99/stargan-celeba/blob/main/images/test3.gif' width='400'><p>
+    </td>
+    <td>
+      <p align='center'><img src='https://github.com/kimjy99/cyclegan/blob/main/images/test_img_small.png' width='400'><p>
+    </td>
+  </tr>
 </table>
