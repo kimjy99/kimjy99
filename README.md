@@ -18,10 +18,10 @@
 
 <table>
   <th>
-    <p align='center'><a href='https://github.com/kimjy99/unetplusplus-celeba'>U2-Net</a></p>
+    <p align='center'><a href='https://github.com/kimjy99/u2net-pytorch'>U2-Net</a></p>
   </th>
   <th>
-    <p align='center'><a href='https://github.com/kimjy99/u2net-pytorch'>UNet++</a></p>
+    <p align='center'><a href='https://github.com/kimjy99/unetplusplus-celeba'>UNet++</a></p>
   </th>
   <tr>
     <td>
