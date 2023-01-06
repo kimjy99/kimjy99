@@ -9,10 +9,13 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=99edward)](https://solved.ac/99edward)
 
+## BLOG
+[MY BLOG](https://kimjy99.github.io/)
+  
 ## NOW STUDYING
-- DDPM
-- Yolo
-
+- Diffusion Model
+- Autoregressive Model
+  
 
 ## MY WORK (PyTorch Implementations)
 
